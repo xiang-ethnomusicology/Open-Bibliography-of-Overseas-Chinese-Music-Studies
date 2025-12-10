@@ -1,9 +1,9 @@
 ---
-title: Chinese Music Studies Open Database
+title: Open Bibliography of Overseas Chinese Music Studies
 layout: default
 ---
 
-# 🇨🇳 Chinese Music Studies Open Database  
+# Open Bibliography of Overseas Chinese Music Studies  
 ## An Open Access Bibliography of Global Research on Chinese Music (English Language)
 
 Welcome!  
@@ -13,11 +13,9 @@ This database collects **author + title** information of *international* scholar
 - musicology  
 - sound/media studies  
 - China studies  
-- anthropology  
-- performance studies  
-- diaspora studies  
+- anthropology   
 
-All entries are **English-language** and published **outside mainland China**.
+All entries are **English-language**.
 
 ---
 
@@ -45,5 +43,5 @@ It includes:
 
 ## ✨ Credits
 
-Created by **[Your Name]**  
+Created by **Dr. Yin Xiang**  
 Maintained at GitHub Pages  
